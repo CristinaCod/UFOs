@@ -29,4 +29,4 @@ If the webpage were to be further refined I think it would be interesting for us
 
 Additionally, the database has two other search criteria of Duration and Comments which may be beneficial for users to add to the filter search bar if they were looking for something specific in these two categories.
 
-We also could 
+Also, when looking at the webpage it's just a lot of text all in your face at once. We could possibly update the navbar and maybe make a drop down menu that includes more information on UFO sightings or a forum where people can comment their experiences as well. 
