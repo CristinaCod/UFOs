@@ -1,6 +1,9 @@
 # UFO Sightings-- Fact or Fantasy?
 ## Overview
 ### Purpose
+The purpose of this analysis is to assist Dana, a data journalist, who’s been given the opportunity to write her first own personal piece. Her choice—her hometown McMinnville, Oregon and its famous UFO sightings, something she’s been intrigued by since childhood. Dana has an enormous JavaScript file with UFO sighting information across the country. Her goal is to build a webpage that will display the information stored in the JavaScript array in an aesthetically pleasing table along with other UFO information. 
+
+We also will create filters to make the table interactive and update based on user input. Customizing the webpage with Bootstrap tools also allows for more user-friendly visualizations. After the initial analysis we updated the webpage to provide a more in-depth analysis of UFO sightings data by allowing users to filter their searches for multiple criteria. We did so by adding search bars for City, State, Country, and Shape in addition to the original Date search bar. 
 
 ## Results
 ### Explantion
