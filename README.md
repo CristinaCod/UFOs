@@ -18,7 +18,15 @@ Again, this search is further refined when I add New Jersey as our desired state
 
 ## Summary
 ### Drawbacks
+One of the main drawbacks of the webpage is that the search bars are case sensitive. Meaning everything in the table is entered in all lowercase so if a user were to accidentally make a letter uppercase or add an extra space or omit a space the table results would be inconclusive rendering the table blank. Continuing off the above example with New Jersey, as we know, there are results for "nj" but if I were to enter it as "NJ" I wouldn't get any output in the table.
+
+![na.png](https://github.com/CristinaCod/UFOs/blob/main/resources/Screen%20Shot%202022-02-27%20at%207.05.52%20PM.png)
+
+Additionally, unless a user really knows specifically what they're searching for it may be hard to use the table. For example if you don't know the specific city and state you're looking for the table may not be helpful and you're more likely to make a typo further hindering your results.Perhaps adding a closest match function would be beneficial if someone doesn't specifically know what they're looking for or how to spell it to make achieving results easier. 
 
 ### Recommendations
 If the webpage were to be further refined I think it would be interesting for useres if an image was included in their search results. Obviously, not everyone has time to whip out their phone when they believe they're witnessing a UFO sighting but for the ones that do it would be beneficial to users to also see that image along with the information of the sighting.
 
+Additionally, the database has two other search criteria of Duration and Comments which may be beneficial for users to add to the filter search bar if they were looking for something specific in these two categories.
+
+We also could 
